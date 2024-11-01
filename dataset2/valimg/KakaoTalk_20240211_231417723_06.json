@@ -1,0 +1,44 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "small robot",
+      "points": [
+        [
+          243.73134328358208,
+          673.7313432835821
+        ],
+        [
+          516.8656716417911,
+          979.7014925373135
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "small robot",
+      "points": [
+        [
+          667.6119402985075,
+          706.5671641791045
+        ],
+        [
+          879.5522388059701,
+          940.8955223880597
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "KakaoTalk_20240211_231417723_06.jpg",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 1080
+}

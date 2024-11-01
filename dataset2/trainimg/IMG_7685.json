@@ -1,0 +1,27 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "big robot",
+      "points": [
+        [
+          1213.4090909090908,
+          865.0000000000001
+        ],
+        [
+          1838.4090909090908,
+          1480.909090909091
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "IMG_7685.JPG",
+  "imageData": null,
+  "imageHeight": 1980,
+  "imageWidth": 3520
+}

@@ -1,0 +1,27 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "small robot",
+      "points": [
+        [
+          1536.1363636363635,
+          905.909090909091
+        ],
+        [
+          1915.681818181818,
+          1437.7272727272727
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "IMG_7678.JPG",
+  "imageData": null,
+  "imageHeight": 1980,
+  "imageWidth": 3520
+}

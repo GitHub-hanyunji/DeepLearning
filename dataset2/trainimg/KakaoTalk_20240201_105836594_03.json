@@ -1,0 +1,27 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "small robot",
+      "points": [
+        [
+          281.0091743119267,
+          89.40366972477067
+        ],
+        [
+          826.8807339449542,
+          647.2018348623852
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "KakaoTalk_20240201_105836594_03.jpg",
+  "imageData": null,
+  "imageHeight": 810,
+  "imageWidth": 1440
+}
